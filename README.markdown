@@ -2,11 +2,11 @@
 https://www.youtube.com/watch?v=5sXcjllHphk
 
 # commados:
-git clone https://github.com/PuckDeVigoss/Probando.git && cd
-git init
-git add .
-git commit -m "change"
-git push origin master
+    git clone https://github.com/PuckDeVigoss/Probando.git && cd
+    git init
+    git add .
+    git commit -m "change"
+    git push origin master
 
 https://prnt.sc/kec00t
 
