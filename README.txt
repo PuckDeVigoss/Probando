@@ -1,16 +1,13 @@
-about git: https://www.youtube.com/watch?v=5sXcjllHphk
+sobre git: https://www.youtube.com/watch?v=5sXcjllHphk
 
-commads: https://prnt.sc/kec00t
+commados: https://prnt.sc/kec00t
+<pre>
+git clone https://github.com/PuckDeVigoss/Probando.git && cd
+git init
+git add .
+git commit -m "change"
+git push origin master
+</pre>
 
-$git clone https://github.com/PuckDeVigoss/Probando.git	//Para clonar el repositorio
-$cd Probando/						//Cambiar de directorio (respositorio local)
-$nano README.txt					//Crear un archivo
-$git init						//Inicializar git
-$git add .						//Agregar los cambios al indice
-$git commit -m "add readme"				//Agregar los cambios al head
-$git push origin master					//Agrega los cambios al repositorio remoto
-
-
-
-Others:
+estructura:
 http://rogerdudler.github.io/git-guide/img/trees.png
